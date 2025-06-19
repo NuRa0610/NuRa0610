@@ -4,5 +4,5 @@
 </p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NuRa0610&show_icons=true&locale=en&theme=transparent" alt="numanzr" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NuRa0610&rank_icon=github&locale=en&theme=transparent" alt="numanzr" />
 </p>
