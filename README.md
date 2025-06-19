@@ -1,3 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuRa0610&layout=compact&theme=transparent&langs_count=6)
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NuRa0610&show_icons=true&locale=en&layout=compact&theme=transparent" alt="numanzr" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NuRa0610&theme=transparent&show_icons=true)
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NuRa0610&show_icons=true&locale=en&theme=transparent" alt="numanzr" />
+</p>
